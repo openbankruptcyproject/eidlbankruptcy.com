@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eidlbankruptcy.com/sitemap.xml

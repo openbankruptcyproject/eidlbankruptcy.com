@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0d1117"/>
+  <!-- SBA/dollar accent -->
+  <g transform="translate(600,105)" fill="none" stroke="#58a6ff" stroke-width="2">
+    <circle cx="0" cy="0" r="22"/>
+    <text x="0" y="8" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="28" fill="#58a6ff" stroke="none">$</text>
+  </g>
+  <text x="600" y="230" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="52" font-weight="bold" fill="#e6edf3">EIDL + Bankruptcy</text>
+  <text x="600" y="290" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#58a6ff">SBA Disaster Loans in Bankruptcy Cases</text>
+  <rect x="250" y="320" width="700" height="2" fill="#30363d"/>
+  <text x="600" y="380" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#7d8590">EIDL Discharge -- SBA Claims -- COVID-Era Relief</text>
+  <text x="600" y="560" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#484f58">Open Bankruptcy Project</text>
+  <text x="600" y="585" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#484f58">eidlbankruptcy.com</text>
+</svg>

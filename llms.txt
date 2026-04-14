@@ -1,23 +1,24 @@
-# EIDL Loan in Bankruptcy -- Discharge Guide [2026]
+# EIDL Loan in Bankruptcy - Discharge Guide [2026]
 > Can you discharge an SBA EIDL loan in bankruptcy? Personal guarantees, Chapter 7 vs 13 strategies, and what happens to your collateral. Free 2026 guide.
 
 ## About
 eidlbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- EIDL in Chapter 11 -- Small Business Reorganization: https://eidlbankruptcy.com/eidl-chapter-11.html
-- EIDL Loans in Chapter 13 -- Structured Repayment: https://eidlbankruptcy.com/eidl-chapter-13.html
-- EIDL Loans in Chapter 7 -- Discharge and Fresh Start: https://eidlbankruptcy.com/eidl-chapter-7.html
-- EIDL Dischargeability -- What You Need to Know: https://eidlbankruptcy.com/eidl-dischargeability.html
-- EIDL Loan in Bankruptcy -- Discharge Guide: https://eidlbankruptcy.com/
-- SBA Offer in Compromise -- Settling for Less: https://eidlbankruptcy.com/offer-in-compromise.html
-- EIDL Personal Guarantee -- Your Exposure and Options: https://eidlbankruptcy.com/personal-guarantee.html
-- SBA Collections Process -- What to Expect After Default: https://eidlbankruptcy.com/sba-collections.html
-- Small Business Bankruptcy Options -- For EIDL Borrowers: https://eidlbankruptcy.com/small-business-options.html
-- Timing Your EIDL Bankruptcy Filing -- Strategic Considerations: https://eidlbankruptcy.com/timing-your-filing.html
-- EIDL Advance (Grant) in Bankruptcy -- Do You Have to Pay It Back? (2026): https://eidlbankruptcy.com/eidl-advance-bankruptcy.html
-- EIDL vs PPP in Bankruptcy -- Key Differences for Filing (2026): https://eidlbankruptcy.com/eidl-vs-ppp-bankruptcy.html
-- EIDL Bankruptcy FAQ -- SBA Loan Discharge Questions: https://eidlbankruptcy.com/frequently-asked-questions.html
+- EIDL Advance (Grant) in Bankruptcy - Do You Have to Pay It Back? (2026): https://eidlbankruptcy.com/eidl-advance-bankruptcy.html
+- EIDL in Chapter 11 - Small Business Reorganization: https://eidlbankruptcy.com/eidl-chapter-11.html
+- EIDL Loans in Chapter 13 - Structured Repayment: https://eidlbankruptcy.com/eidl-chapter-13.html
+- EIDL Loans in Chapter 7 - Discharge and Fresh Start: https://eidlbankruptcy.com/eidl-chapter-7.html
+- EIDL Dischargeability - What You Need to Know: https://eidlbankruptcy.com/eidl-dischargeability.html
+- EIDL vs PPP in Bankruptcy - Key Differences for Filing (2026): https://eidlbankruptcy.com/eidl-vs-ppp-bankruptcy.html
+- EIDL Bankruptcy FAQ - SBA Loan Discharge Questions: https://eidlbankruptcy.com/frequently-asked-questions.html
+- EIDL Loan in Bankruptcy - Discharge Guide: https://eidlbankruptcy.com/
+- SBA Offer in Compromise - Settling for Less: https://eidlbankruptcy.com/offer-in-compromise.html
+- EIDL Personal Guarantee - Your Exposure and Options: https://eidlbankruptcy.com/personal-guarantee.html
+- SBA Collections Process - What to Expect After Default: https://eidlbankruptcy.com/sba-collections.html
+- Small Business Bankruptcy Options - For EIDL Borrowers: https://eidlbankruptcy.com/small-business-options.html
+- Timing Your EIDL Bankruptcy Filing - Strategic Considerations: https://eidlbankruptcy.com/timing-your-filing.html
+- Privacy Policy: https://eidlbankruptcy.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

@@ -108,7 +108,7 @@ Home » EIDL in Chapter 11
 
 Subchapter V for EIDL Borrowers
 
-Designed for businesses with debts under $7.5 million. Streamlined: no creditors' committee, no disclosure statement, debtor stays in control. Restructure EIDL over 3-5 years while keeping the business alive.
+Designed for businesses with debts of no more than $3,424,000. Streamlined: no creditors' committee, no disclosure statement, debtor stays in control. Restructure EIDL over 3-5 years while keeping the business alive.
 
 Plan Treatment
 
@@ -122,7 +122,7 @@ Frequently Asked Questions
 
 Do I qualify for Subchapter V?
 
-Yes if: engaged in business, total debts under $7.5 million, at least 50% of debts from business. Most EIDL borrowers qualify.
+Yes if: engaged in business, total debts of no more than $3,424,000, at least 50% of debts from business. Most EIDL borrowers qualify.
 
 Can the SBA object?
 
@@ -1609,11 +1609,11 @@ Best for closed businesses. Personal EIDL liability discharged. ~4 months. Must 
 
 Chapter 13: Individual Plan
 
-Best for sole proprietors with regular income wanting to keep operating. 3-5 year plan. Debt limit $2.75M.
+Best for sole proprietors with regular income wanting to keep operating. 3-5 year plan. Debt limits: unsecured under $526,700 and secured under $1,580,125.
 
 Subchapter V Chapter 11
 
-Best for LLCs, corps, and higher debt. Limit $7.5M. Business continues. Streamlined process.
+Best for LLCs, corps, and higher debt. Debt limit $3,424,000 (the temporary $7.5M limit expired June 21, 2024). Business continues. Streamlined process.
 
 Assignment for Benefit of Creditors
 

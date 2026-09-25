@@ -1,5 +1,5 @@
 # EIDL Loan in Bankruptcy - Discharge Guide [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Can you discharge an SBA EIDL loan in bankruptcy? Personal guarantees, Chapter 7 vs 13 strategies, and what happens to your collateral. Free 2026 guide.
 
@@ -8,19 +8,20 @@ eidlbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject
 
 ## Key Pages
 - EIDL Advance (Grant) in Bankruptcy - Do You Have to Pay It Back? (2026): https://eidlbankruptcy.com/eidl-advance-bankruptcy.html
-- EIDL in Chapter 11 - Small Business Reorganization: https://eidlbankruptcy.com/eidl-chapter-11.html
-- EIDL Loans in Chapter 13 - Structured Repayment: https://eidlbankruptcy.com/eidl-chapter-13.html
-- EIDL Loans in Chapter 7 - Discharge and Fresh Start: https://eidlbankruptcy.com/eidl-chapter-7.html
-- EIDL Dischargeability - What You Need to Know: https://eidlbankruptcy.com/eidl-dischargeability.html
+- EIDL in Chapter 11 [2026]: SBA Treatment, Subchapter V, and 11 USC 1191 Plan Confirmation: https://eidlbankruptcy.com/eidl-chapter-11.html
+- EIDL in Chapter 13 [2026]: Personal Guarantee Treatment and Plan Payment Math: https://eidlbankruptcy.com/eidl-chapter-13.html
+- EIDL in Chapter 7 [2026]: Personal Guarantee Discharge and 11 USC 727 Treatment: https://eidlbankruptcy.com/eidl-chapter-7.html
+- EIDL Dischargeability [2026]: 11 USC 727 Default Rule and 523(a)(2) Fraud Exception: https://eidlbankruptcy.com/eidl-dischargeability.html
 - EIDL vs PPP in Bankruptcy - Key Differences for Filing (2026): https://eidlbankruptcy.com/eidl-vs-ppp-bankruptcy.html
 - EIDL Bankruptcy FAQ - SBA Loan Discharge Questions: https://eidlbankruptcy.com/frequently-asked-questions.html
 - EIDL Loan in Bankruptcy - Discharge Guide: https://eidlbankruptcy.com/
-- SBA Offer in Compromise - Settling for Less: https://eidlbankruptcy.com/offer-in-compromise.html
-- EIDL Personal Guarantee - Your Exposure and Options: https://eidlbankruptcy.com/personal-guarantee.html
-- SBA Collections Process - What to Expect After Default: https://eidlbankruptcy.com/sba-collections.html
-- Small Business Bankruptcy Options - For EIDL Borrowers: https://eidlbankruptcy.com/small-business-options.html
-- Timing Your EIDL Bankruptcy Filing - Strategic Considerations: https://eidlbankruptcy.com/timing-your-filing.html
+- SBA Offer in Compromise [2026]: Settlement of EIDL Default at 10-30% Under SOP 50 57: https://eidlbankruptcy.com/offer-in-compromise.html
+- Are EIDL Loans Personally Guaranteed? [2026]: $200,000 Threshold and Sole Proprietor Liability: https://eidlbankruptcy.com/personal-guarantee.html
+- SBA Collections Process [2026]: Default, Treasury Offset, and 31 USC 3716 Referrals: https://eidlbankruptcy.com/sba-collections.html
+- Small Business EIDL Bankruptcy Options [2026]: Chapter 7 vs Subchapter V vs Chapter 13: https://eidlbankruptcy.com/small-business-options.html
+- Timing EIDL Bankruptcy Filing [2026]: Pre-Default vs Post-Default and Treasury Referral Window: https://eidlbankruptcy.com/timing-your-filing.html
 - Privacy Policy: https://eidlbankruptcy.com/privacy.html
+- About eidlbankruptcy.com: https://eidlbankruptcy.com/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
